@@ -1,11 +1,11 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
 light: #fcfbfc
-dark: #240002
+dark: #000000
 
 -- ftd.color step-1-:
-light: #f9f8f9
-dark: #550605
+light: #f4f0f4
+dark: rgba(21, 21, 21, 0.8)
 
 -- ftd.color step-2-:
 light: #fff4ff
@@ -52,11 +52,11 @@ dark: #393939
 
 -- ftd.color cta-primary-base-:
 light: #ff7724
-dark: #a53006
+dark: rgba(239,132,53,1)
 
 -- ftd.color cta-primary-hover-:
 light: #fc9d57
-dark: #8c2702
+dark: rgba(239,132,53,1)
 
 -- ftd.color cta-primary-pressed-:
 light: #611c03
@@ -72,11 +72,11 @@ dark: #611c03
 
 -- ftd.color cta-primary-border-:
 light: #ff7724
-dark: #a53006
+dark: rgba(239,132,53,1)
 
 -- ftd.color cta-primary-text-:
 light: #ffffff
-dark: #feffff
+dark: rgba(239,132,53,1)
 
 -- ftd.color cta-primary-text-disabled-:
 light: #65b693
@@ -239,8 +239,8 @@ text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
 
 -- ftd.color accent-primary-:
-light: #a53006
-dark: #a53006
+light: rgba(239,132,53,1)
+dark: rgba(239,132,53,1)
 
 -- ftd.color accent-secondary-:
 light: #EF8435
