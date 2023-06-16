@@ -4,11 +4,11 @@ light: #fcfbfc
 dark: #240002
 
 -- ftd.color step-1-:
-light: #e3bc81
+light: #f9f8f9
 dark: #550605
 
 -- ftd.color step-2-:
-light: #faad7b
+light: #fff4ff
 dark: #3e0e11
 
 -- ftd.color overlay-:
