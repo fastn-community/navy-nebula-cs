@@ -1,6 +1,6 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
+light: #fcfbfc
 dark: #240002
 
 -- ftd.color step-1-:
@@ -27,19 +27,19 @@ overlay: $overlay-
 code: $code-
 
 -- ftd.color border-:
-light: #222222
+light: #e4e1e1
 dark: #FFFFFF
 
 -- ftd.color border-strong-:
-light: #D9D9D9
+light: #707070
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
+light: #969696
 dark: #D9D9D9
 
 -- ftd.color text-strong-:
-light: #333333
+light: #000000
 dark: #FFFFFF
 
 -- ftd.color shadow-:
@@ -51,11 +51,11 @@ light: #393939
 dark: #393939
 
 -- ftd.color cta-primary-base-:
-light: #a53006
+light: #ff7724
 dark: #a53006
 
 -- ftd.color cta-primary-hover-:
-light: #8c2702
+light: #fc9d57
 dark: #8c2702
 
 -- ftd.color cta-primary-pressed-:
@@ -71,11 +71,11 @@ light: #611c03
 dark: #611c03
 
 -- ftd.color cta-primary-border-:
-light: #a53006
+light: #ff7724
 dark: #a53006
 
 -- ftd.color cta-primary-text-:
-light: #feffff
+light: #ffffff
 dark: #feffff
 
 -- ftd.color cta-primary-text-disabled-:
