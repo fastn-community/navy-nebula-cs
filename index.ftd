@@ -19,7 +19,7 @@ name: default-colors
 -- cd.package: THEME
 name: `navy-nebula-cs`
 logo: $assets.files.static.fastn-logo.svg
-subtitle: Adding warmth and energy to your designs with the `navy-nebula-cs` Color Scheme
+subtitle: navy-nebula-cs: color scheme
 colors: $colors-data
 types: $typo.types
 
