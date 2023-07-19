@@ -15,15 +15,14 @@ name: default-colors
 -- ftd.color-scheme colors-data: $main
 
 
-
 -- cd.package: THEME
 name: `navy-nebula-cs`
 logo: $assets.files.static.fastn-logo.svg
 subtitle: navy-nebula-cs: color scheme
 colors: $colors-data
 types: $typo.types
-document-title: Navy Nebula CS: fastn color scheme package
-document-description: Navy Nebula CS: fastn color scheme package
+document-title: Black and Cadmium Orange-themed Colour Scheme for Web Design | fastn Navy Nebula CS
+document-description: Discover the Navy Nebula Colour Scheme by fastn, featuring beautiful shades of black and cadmium orange for both dark and light modes.
 document-image: https://fastn.com/-/fastn.com/images/featured/cs/navy-nebula-cs-dark.png
 
 -- cp.components-pallete:
